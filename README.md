@@ -1,4 +1,4 @@
-<img width="791" height="93" alt="image" src="https://github.com/user-attachments/assets/b504b73a-c1fb-43b4-a7af-1e56dc229947" />## Coinigy Mac License
+## Coinigy Mac License
 
 <img src="https://blockspot.io/wp-content/uploads/coinigy-company-logo.png" width="200" alt="App icon" align="left"/>
 
