@@ -1,4 +1,4 @@
-## Coinigy Mac License
+<img width="791" height="93" alt="image" src="https://github.com/user-attachments/assets/b504b73a-c1fb-43b4-a7af-1e56dc229947" />## Coinigy Mac License
 
 <img src="https://blockspot.io/wp-content/uploads/coinigy-company-logo.png" width="200" alt="App icon" align="left"/>
 
@@ -15,11 +15,11 @@
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/downloads-17.8k-brightgreen?style=flat" alt="downloads"/></a>
-<a href="#"><img src="https://img.shields.io-badge/version-18.1-blue?style=flat" alt="version"/></a>
+<a href="#"><img src="https://img.shields.io/badge/version-18.1-blue?style=flat" alt="version"/></a>
 <a href="#"><img src="https://img.shields.io/badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://www.coinigy.com/public/static/features_new-6d1616a9bbe7b440a10022c4dbf8744c.png" width="824" alt="Screenshot"/>
+<img src="https://insights.coinigy.com/content/images/size/w2000/2023/09/CoinigyBoards.png" width="824" alt="Screenshot"/>
 
 </div>
 
